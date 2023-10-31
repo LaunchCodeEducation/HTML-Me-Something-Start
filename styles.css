@@ -1,1 +1,27 @@
-/* Write your CSS here! */
+p {
+    font-size: large;
+    color: antiquewhite
+}
+
+body {
+    background-color: blueviolet;
+    padding: 5px;
+    margin: auto;
+}
+
+h1 {
+    color: antiquewhite
+}
+
+h2 {
+    color: antiquewhite
+}
+
+#mainHeading {
+    align-self: center;
+}
+
+img {
+    border-radius: 12px;
+    max-width: 25%;
+}
