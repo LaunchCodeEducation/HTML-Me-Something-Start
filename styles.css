@@ -20,9 +20,14 @@ h2 {
 
 #mainHeading {
     align-self: center;
+    color: red;
 }
 
 img {
     border-radius: 12px;
     max-width: 25%;
+}
+
+.funParagraph {
+    color: green;
 }
