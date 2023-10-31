@@ -6,7 +6,8 @@ p {
 body {
     background-color: blueviolet;
     padding: 5px;
-    margin: auto;
+    margin: 8px;
+    display: block;
 }
 
 h1 {
