@@ -39,6 +39,10 @@ img {
     max-width: 70%;
 }
 
+figcaption {
+    text-align: center;
+    font-size: smaller;
+}
 
 .funParagraph {
     color: green;
