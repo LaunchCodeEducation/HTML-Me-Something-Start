@@ -34,6 +34,10 @@ h2 {
     color: red;
 }
 
+#testP {
+    color: black;
+}
+
 img {
     border-radius: 12px;
     max-width: 70%;
