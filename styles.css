@@ -74,5 +74,7 @@ figcaption {
 }
 
 .ul {
-    text-decoration: underline;
+    list-style: none;
+    text-align: center;
+    font-weight: bold;
 }
